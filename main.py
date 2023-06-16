@@ -1,6 +1,6 @@
 import time, random, os
 
-ranksettings = False
+ranksettings = True
 levelsettings = True
 
 choice = ["locked", "bronze", "silver", "gold", "platine", "diamond", "immortal", "radiant"]
